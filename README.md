@@ -1,0 +1,2 @@
+# Hexapole_project
+Kinematic and dynamic modelling of a cable-driven parallel robot used to control an inverted pendulum. Development of a controller to stabilise the pendulum in its vertical unstable position by means of linear quadratic regulators. Validation of the controller in simulation, so it can maintain the equilibrium position despite the appearance of unmodelled disturbances or noise in the signals from the sensors.
